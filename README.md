@@ -25,8 +25,8 @@ Exercício focado na inicialização de variáveis e organização de saída de 
 
 * **Linguagem:** Portugol (Ambiente Portugol Studio).
 * **Tipos de Dados:**
-    * `inteiro`: Para números inteiros, como a idade.
-    * `cadeia`: Para textos e conjuntos de caracteres, como nomes e cidades.
+    * **inteiro:** Para números inteiros, como a idade.
+    * **cadeia:** Para textos e conjuntos de caracteres, como nomes e cidades.
 * **Comandos de Entrada e Saída:**
     * `escreva()`: Para exibir mensagens e resultados no console.
     * `leia()`: Para receber informações digitadas pelo usuário.
@@ -36,11 +36,10 @@ Exercício focado na inicialização de variáveis e organização de saída de 
 
 ## ⚙️ Como Executar
 
-1.  Certifique-se de ter o **Portugol Studio** instalado.
-2.  Crie um novo arquivo no editor.
-3.  Copie e cole o código do exercício desejado.
-4.  Pressione a tecla `F9` para compilar e rodar o programa.
+1. Certifique-se de ter o **Portugol Studio** instalado.
+2. Crie um novo arquivo no editor.
+3. Copie e cole o código do exercício desejado.
+4. Pressione a tecla `F9` para compilar e rodar o programa.
 
 ---
-[cite_start]**Desenvolvido por Lucas Nery Miranda** [cite: 1]  
-[cite_start]*Estudante de Bacharelado em Ciência da Computação [cite: 8] na Universidade UNA - Contagem* [cite: 7]
+**Desenvolvido por Lucas Nery Miranda** *Estudante de Bacharelado em Ciência da Computação na Universidade UNA - Contagem*
